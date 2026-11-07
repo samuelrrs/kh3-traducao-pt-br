@@ -32,4 +32,4 @@ Se o pak do jogo já for esta tradução, o instalador diz `ja aplicado, nada a 
 
 ## No console
 
-O idioma do PS5 pode ficar em português. No jogo: **Configurações → Idiomas → Texto → Português**. As vozes continuam inglês ou japonês. Áudio das cenas e imagens com texto desenhado não entram nesta tradução.
+O idioma do PS5 pode ficar em português. No jogo: **Configurações → Idiomas → Texto → Italiano**. O texto em português entra nesse slot. As vozes continuam inglês ou japonês. Áudio das cenas e imagens com texto desenhado não entram nesta tradução.
