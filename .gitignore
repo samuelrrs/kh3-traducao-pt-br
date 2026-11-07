@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.bak
+.pt-apply
+*.exe
+build/
+dist/
+*.spec
+_release_notes.md
