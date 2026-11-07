@@ -20,7 +20,7 @@ O texto é o da Phantasie Translate (Kingdom Hearts III + Re Mind, PC, 1.1.3): S
 
 Mantenha juntos: `pakchunk0-ps5.pak`, `aplicar_traducao.py`, `aplicar_traducao.bat` e `aplicar_traducao.vbs`.
 
-Dois cliques em `aplicar_traducao.py` (ou no `.vbs`) e escolha a pasta do jogo. Também dá para arrastar essa pasta em cima do `aplicar_traducao.bat`.
+Dois cliques em `aplicar_traducao.py` (ou no `.vbs`) e escolha a pasta do jogo. Também dá para arrastar a pasta do jogo em cima do `aplicar_traducao.bat`.
 
 ```bat
 aplicar_traducao.bat "D:\caminho\PPSA35999-app0"
