@@ -4,6 +4,13 @@
 
 O texto é o da Phantasie Translate (Kingdom Hearts III + Re Mind, PC, 1.1.3): Sorinha e Andrea Phantasie, lleogame, LontraJogos e VSiFer. Este pacote só coloca esse texto no dump de PS5. Não é o instalador de PC da Phantasie.
 
+## Screenshots
+
+![Título](screenshots/01-titulo.jpg)
+![Estilo de jogo](screenshots/02-estilo.jpg)
+![Diálogo](screenshots/03-dialogo.jpg)
+![Combate](screenshots/04-combate.jpg)
+
 ## Requisitos
 
 - **Python 3 instalado no PC.** Baixe em https://www.python.org/downloads/ e, na instalação, deixe marcada a opção **Add python.exe to PATH**.
